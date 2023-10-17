@@ -2,24 +2,24 @@
 *,
 *::after,
 *::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
 
 body {
-    background-color: aqua;
+  background-color: aqua;
 }
 
 p {
-    font-size: 16px;
-    font-family: 'Caveat', cursive;
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
-    font-variant: small-caps;
-    forced-color-adjust: Chrome 89;
-    color: indigo;
+  font-size: 16px;
+  font-family: "Caveat", cursive;
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+  font-variant: small-caps;
+  forced-color-adjust: Chrome 89;
+  color: indigo;
 }
